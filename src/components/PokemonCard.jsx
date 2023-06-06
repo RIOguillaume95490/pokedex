@@ -3,7 +3,7 @@ import './PokemonCard.css'
 
 
 function PokemonCard({pokemon}) {
-  console.log(PokemonCard)
+ 
     return (
         <>
         <figure className="card">
